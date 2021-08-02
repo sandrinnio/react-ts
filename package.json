@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
     "@monaco-editor/react": "3.7.5",
     "@types/jscodeshift": "0.7.2",
     "@types/node": "^12.0.0",
